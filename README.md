@@ -1,2 +1,2 @@
 # QR-Code-Generator
-A QR code generator created with HTML , CSS, JavaScript , Bootstrap and most importantly the qrcode.js library.
+A QR code generator created with HTML , CSS, JavaScript , Bootstrap 5, FileSave.js and most importantly the qrcode.js library.
